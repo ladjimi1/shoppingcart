@@ -1,0 +1,45 @@
+/* body{
+    background-color: red;
+} */
+
+button{
+    /* background-color: blue!important; */
+    margin: 50px!important
+}
+.dropdown-menu{
+       left: -62px!important;
+
+} 
+.navbar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    
+}
+
+.main-menu{
+    width: 100%
+    
+}
+.w-100 {
+    width: 100%!important;
+    height: 100%!important;
+}
+.navbar-brand , .navbar-brand :hover{
+    color: rgb(118, 197, 118);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.65rem!important;
+    color: rgb(118, 197, 118)!important;
+}
+.table td, .table th{
+vertical-align: 0!important;
+border-top: 7px solid #dee2e6!important;
+font-size: xx-large;
+
+}
+.plus{
+    margin-right: 7px;
+}
+.red-heart{
+    color: red;
+}
+    
+    
